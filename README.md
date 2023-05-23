@@ -1,2 +1,10 @@
 # hospital-management-system
 ![Hospital Management System UML Diagram](https://github.com/MHSALEH/hospital-management-system/assets/111057336/52712e6c-4265-465d-982e-bfd9a529d895)
+![Doctor1](https://github.com/MHSALEH/hospital-management-system/assets/111057336/3384937a-df5b-4982-9582-7525f8e6965a)
+![Doctor2](https://github.com/MHSALEH/hospital-management-system/assets/111057336/9a176648-32d5-4a8a-826e-682d9ce30376)
+![Patient1](https://github.com/MHSALEH/hospital-management-system/assets/111057336/e9818dd1-cdb6-4d8a-a7c8-6b14a8efc6d3)
+![Patient2](https://github.com/MHSALEH/hospital-management-system/assets/111057336/b6bc53e7-1e00-4c3b-a2f7-1a026e1faade)
+![Medical_Record1](https://github.com/MHSALEH/hospital-management-system/assets/111057336/ce497cae-f1c1-410d-97d1-bce148bda95f)
+![Medical_Record2](https://github.com/MHSALEH/hospital-management-system/assets/111057336/a2155752-0f04-4bcc-9e1b-2e331324ca04)
+![Appointment1](https://github.com/MHSALEH/hospital-management-system/assets/111057336/d4069a69-ab7b-4210-8b59-0a027f9e6955)
+![Appointment2](https://github.com/MHSALEH/hospital-management-system/assets/111057336/b3178b91-a9fb-40dc-8224-32e772889505)
